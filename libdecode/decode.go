@@ -1,4 +1,4 @@
-package unidecode
+package libdecode
 
 import (
 	"compress/zlib"

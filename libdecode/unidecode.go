@@ -1,7 +1,7 @@
-// Package unidecode implements a unicode transliterator
+// Package libdecode implements a unicode transliterator
 // which replaces non-ASCII characters with their ASCII
 // approximations.
-package unidecode
+package libdecode
 
 //go:generate go run make_table.go
 
